@@ -1,0 +1,11 @@
+C:\Users\vmaster\Desktop\Practice\Practice\ImageScannerOCRApp\bin\Debug\ImageScannerOCRApp.exe.config
+C:\Users\vmaster\Desktop\Practice\Practice\ImageScannerOCRApp\bin\Debug\ImageScannerOCRApp.exe
+C:\Users\vmaster\Desktop\Practice\Practice\ImageScannerOCRApp\bin\Debug\ImageScannerOCRApp.pdb
+C:\Users\vmaster\Desktop\Practice\Practice\ImageScannerOCRApp\bin\Debug\IronOcr.dll
+C:\Users\vmaster\Desktop\Practice\Practice\ImageScannerOCRApp\bin\Debug\IronOcr.xml
+C:\Users\vmaster\Desktop\Practice\Practice\ImageScannerOCRApp\obj\Debug\ImageScannerOCRApp.Form1.resources
+C:\Users\vmaster\Desktop\Practice\Practice\ImageScannerOCRApp\obj\Debug\ImageScannerOCRApp.Properties.Resources.resources
+C:\Users\vmaster\Desktop\Practice\Practice\ImageScannerOCRApp\obj\Debug\ImageScannerOCRApp.csproj.GenerateResource.Cache
+C:\Users\vmaster\Desktop\Practice\Practice\ImageScannerOCRApp\obj\Debug\ImageScannerOCRApp.csproj.CoreCompileInputs.cache
+C:\Users\vmaster\Desktop\Practice\Practice\ImageScannerOCRApp\obj\Debug\ImageScannerOCRApp.exe
+C:\Users\vmaster\Desktop\Practice\Practice\ImageScannerOCRApp\obj\Debug\ImageScannerOCRApp.pdb
